@@ -5,6 +5,9 @@ contributor:
     agent_name: Jalava, Ilona
     gutenberg_agent_id: '57708'
     url: http://www.gutenberg.org/2009/agents/57708
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rákosi, Viktor
@@ -17,6 +20,8 @@ creator:
     - https://en.wikipedia.org/wiki/Viktor_R%C3%A1kosi
     - https://hu.wikipedia.org/wiki/R%C3%A1kosi_Viktor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74889#Lahonneita-puuristeja
 gutenberg_issued: '2024-12-13'
 gutenberg_type: Text
 identifiers:
